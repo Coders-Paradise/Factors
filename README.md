@@ -1,3 +1,6 @@
+# Factors
+Program to find the factors of a polynomial
+
 # Variables
 
 > _Note: All these variables are declared and initialised in `main()` itself. The variables used in other parts of the program are for local calculations only._
